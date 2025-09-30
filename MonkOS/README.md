@@ -1,4 +1,4 @@
-# My-Own-OS [WIP]
+# MyOs [WIP]
 
 [Self teaching] Writing my own Operating System. Inpsired by "Write your own Operating System"'s [youtube series](https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) and related [GitHub repo](https://github.com/AlgorithMan-de/wyoos)
 
@@ -63,5 +63,3 @@ uint32_t __stack_chk_fail_local(){
 ```
 
 Further information about this issue has been [discussed in another repository](https://github.com/AlgorithMan-de/wyoos/issues/15)
-
-# MonkOS
