@@ -1,0 +1,11 @@
+# object files
+*.o
+
+# compiled files
+*.bin
+
+# iso boot directory
+iso/
+
+# iso files
+*.iso
