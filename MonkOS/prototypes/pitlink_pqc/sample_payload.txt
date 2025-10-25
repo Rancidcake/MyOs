@@ -1,0 +1,9 @@
+PitLink PQC Story Payload
+=========================
+
+This placeholder payload represents the cross-industry briefing referenced in the TrackShift 2025 showcase. The Python prototype uses it to generate deterministic chunks, apply hashing, and simulate Reed-Solomon style parity. Swap the text if you want to narrate another story — just point the `--payload` argument at your own file path.
+
+Talking points for live demos:
+- Explain how P0 carries different artefacts per scenario (race strategy deltas, autonomous safety kernels, robotics interlocks).
+- Emphasise the automatic failover between whichever paths the scenario config declares (5G, mesh WiFi, fiber, satellite, LoRa).
+- Highlight that FEC reconstructs missing chunks so the SLA narrative you pitch (pit wall freeze, fleet safety loop, OT compliance) stays intact.
